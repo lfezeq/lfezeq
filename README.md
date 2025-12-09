@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **lfezeq**
 
-I'm a developer from Poznań, learning programming for over **3 years**.  
+I'm a developer from Poznań, learning programming for over **2.5 years**.  
 I enjoy building websites, writing scripts, and exploring different programming languages.
 
 ---
@@ -19,22 +19,27 @@ I enjoy building websites, writing scripts, and exploring different programming 
 - Python (basics)  
 - C++ (basics)
 
-### 🔹 Tools  
-<img src="https://skillicons.dev/icons?i=html,css,js,php,lua,cs,python,cpp,github,vscode" />
+---
+
+## 🔧 Tools & Tech Icons
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,lua,cs,python,cpp,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lfezeq&show_icons=true&theme=github_dark&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfezeq&layout=compact&theme=github_dark&hide_border=false" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lfezeq&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfezeq&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
-- Backend & frontend web development  
+- Frontend & backend web development  
 - C# programming  
 - Improving Python & C++ fundamentals  
 - Scripting and automation  
