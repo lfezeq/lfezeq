@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm **lfezeq**
 
-<!--
-**lfezeq/lfezeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Poznań, learning programming for over **3 years**.  
+I enjoy building websites, writing scripts, and exploring different programming languages.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Technologies & Languages I Use
+
+### 🔹 Web Development  
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+
+### 🔹 Programming Languages  
+- C#  
+- Lua  
+- Python (basics)  
+- C++ (basics)
+
+### 🔹 Tools  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,lua,cs,python,cpp,github,vscode" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lfezeq&show_icons=true&theme=github_dark&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfezeq&layout=compact&theme=github_dark&hide_border=false" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- Backend & frontend web development  
+- C# programming  
+- Improving Python & C++ fundamentals  
+- Scripting and automation  
+
+---
+
+## 📫 Contact
+📧 Email: **jakasosoba.4@gmail.com**  
+📍 Based in **Poznań, Poland**
+
+---
+
+Thanks for visiting my profile!
