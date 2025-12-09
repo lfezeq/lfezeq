@@ -25,8 +25,8 @@ I like clean, readable code and constantly try to improve my skills.
 
 ## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lfezeq&show_icons=true&theme=github_dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lfezeq&layout=compact&theme=github_dark)
+![lfezeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfezeq&show_icons=true&theme=github_dark)
+![lfezeq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lfezeq&layout=compact&theme=github_dark)
 
 ---
 
