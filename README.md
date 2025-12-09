@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **lfezeq**
 
-I'm a developer from **Poznań, Poland**, learning programming for over **3 years**.  
+I'm a developer from **Poznań, Poland**, learning programming for over **2.5 years**.  
 I enjoy building websites, writing scripts, and exploring different programming languages.  
 I like clean, readable code and constantly try to improve my skills.
 
