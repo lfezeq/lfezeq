@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **lfezeq**
+# ![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&width=600&lines=Hi,+I'm+lfezeq!;Welcome+to+my+GitHub+profile!)
 
 I'm a developer from **Poznań, Poland**, learning programming for over **2.5 years**.  
 I enjoy building websites, writing scripts, and exploring different programming languages.  
@@ -39,5 +39,4 @@ I like clean, readable code and constantly try to improve my skills.
 ---
 
 Thanks for visiting my profile! 👋
-![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&width=600&lines=Hi,+I'm+lfezeq!;Welcome+to+my+GitHub+profile!)
 
