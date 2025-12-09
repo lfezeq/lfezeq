@@ -39,3 +39,5 @@ I like clean, readable code and constantly try to improve my skills.
 ---
 
 Thanks for visiting my profile! 👋
+![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&width=600&lines=Hi,+I'm+lfezeq!;Welcome+to+my+GitHub+profile!)
+
