@@ -12,6 +12,7 @@ I like clean, readable code and constantly try to improve my skills.
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **TypeScript**
 - **PHP**
 - **SQL & Databases**
 
